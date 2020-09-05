@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"D:\\Unreal\\KPT2020_Esimerkkiprojekti\\Source\\EscapeInSpace\\EscapeInSpace.Build.cs",
-		"D:\\Unreal\\KPT2020_Esimerkkiprojekti\\Source\\EscapeInSpace.Target.cs",
-		"D:\\Unreal\\KPT2020_Esimerkkiprojekti\\Source\\EscapeInSpaceEditor.Target.cs"
-	],
-	"EngineVersion": "4.25.3"
-}
